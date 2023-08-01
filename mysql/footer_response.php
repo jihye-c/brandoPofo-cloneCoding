@@ -1,0 +1,4 @@
+<?
+mysqli_close($conn); 
+?>
+

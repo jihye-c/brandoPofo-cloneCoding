@@ -1,0 +1,15 @@
+@import url(./fonts.css);
+@import url(./reset.css);
+
+.container {
+  width:800px;
+  padding:100px 0 0 0;
+  #response{
+    table {
+      border-top: 1px solid #333;
+      th { height: 50px; }
+      td { height: 40px; padding:0 0 0 10px;}
+    }
+  }
+  
+}
